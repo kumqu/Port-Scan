@@ -1,7 +1,7 @@
 ## 功能：
-  显示目标主机开放端口及其服务
+  显示目标主机开放的端口及其服务
 
 ## 用法：
-  ./scan IP start_port end_port
+  ./scan ip1 ip2 ip3 ...
   
 
